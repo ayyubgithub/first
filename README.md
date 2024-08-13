@@ -1,2 +1,2 @@
 # first
-testing of git and github by ayyub.
+write a basic code in c language.
